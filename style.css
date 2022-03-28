@@ -1,0 +1,20 @@
+body{
+    background-color: azure;
+}
+#btn{
+    width:10%;
+    height:10%; 
+    margin-left:1%;
+}
+.img{
+    width:100%;
+    height:100%;
+   display: inline;
+}
+.pressed{
+    box-shadow: 0 3px 4px 0;
+    opacity: 0.5;
+}
+.color{
+    color:red;
+}
